@@ -20,6 +20,6 @@ MAVEN3.3.X
 使用Mybatis——generator生成以下packpag：DAO，POJO，MAPPING（IDEA生成需要插件，与Eclipse生成有所不同）
 
 Quick Start（eclipse）
-　git cione https://github.com/SSMFromeWork/ssm-maven-.git
+　git clone https://github.com/SSMFromeWork/ssm-maven-.git
 　mvn install ；
 　
